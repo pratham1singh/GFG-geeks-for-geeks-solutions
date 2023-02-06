@@ -32,7 +32,6 @@ class Solution:
             self.check(root.right,target)
             
     def verticallyDownBST(self, root, target):
-        
         Solution.root1=None
         Solution.ans1=0
         self.check(root,target)
@@ -42,6 +41,7 @@ class Solution:
             self.cal(Solution.root1,0)
             
             return Solution.ans1-Solution.root1.data
+            
             
 
 #{ 
