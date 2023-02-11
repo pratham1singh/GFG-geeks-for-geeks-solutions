@@ -1,0 +1,32 @@
+def getMinimumDays(self, N : int, S : str, P : List[int]) -> int:
+        dict1={}
+        i=0
+        ans=0
+        S=list(S)
+        for i in range(len(P)):
+            dict1[P[i]]=i
+        i=0   
+        while i<N-1:
+            if S[i]==S[i+1]:
+                if i in dict1 and i+1 in dict1:
+                    if dict1[i]<dict1[i+1]:
+                        if ans<dict1[i]+1:
+                            ans=dict1[i]+1
+                        S[i]="?"
+                        del dict1[i]
+                    else:
+                        if ans<dict1[i+1]+1:
+                            ans=dict1[i+1]+1
+                        S[i+1]="?"
+                        del dict1[i+1]
+                elif i in dict1:
+                    if ans<dict1[i]+1:
+                        ans=dict1[i]+1
+                    S[i]="?"
+                else:
+                    if ans<dict1[i+1]+1:
+                        ans=dict1[i+1]+1
+                    S[i+1]="?"
+                    
+            i+=1
+        return ans
