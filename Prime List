@@ -1,0 +1,41 @@
+def primeList(self, head : Optional['Node']) -> Optional['Node']:
+        dict1={}
+        def isprime(num):
+            
+            if num==2:
+                return True
+            else:
+                k=2
+                while k<=math.sqrt(num):
+                    if num%k==0:
+                        return False
+                    k+=1
+                return True
+        ptr=head
+        while ptr!=None:
+            if ptr.data in dict1:
+                ptr.data=dict1[ptr.data]
+                ptr=ptr.next
+            
+            elif ptr.data==1:
+                ptr.data=2
+                ptr=ptr.next
+            else:
+                val=ptr.data
+                a=0
+                while not(isprime(val)):
+                    val-=1
+                a=val
+                val=ptr.data
+                while not(isprime(val)):
+                    val+=1
+                if abs(ptr.data-a)<=abs(ptr.data-val):
+                    ptr.data=a
+                    dict1[ptr.data]=a
+                else:
+                    dict1[ptr.data]=val
+                    ptr.data=val
+                ptr=ptr.next
+                
+        return head
+        
