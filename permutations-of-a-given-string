@@ -1,0 +1,24 @@
+class Solution {
+    ArrayList<String> list1=new ArrayList<>();
+    public void find(String str,String ans,HashMap<Integer,Boolean>map,int i,int l){
+        if(i==l){
+            if(list1.contains(ans)==false)
+            list1.add(ans);
+            return;
+        }
+        for(int j=0;j<str.length();j++){
+            if(map.get(j)==null){
+                HashMap<Integer,Boolean>map2=new HashMap<>(map);
+                map2.put(j,true);
+                find(str,ans+str.charAt(j),map2,i+1,l);
+            }
+        }
+    }
+    public List<String> find_permutation(String S) {
+        HashMap<Integer,Boolean>map=new HashMap<>();
+        String str="";
+        find(S,str,map,0,S.length());
+        Collections.sort(list1);
+        return list1;
+    }
+}
