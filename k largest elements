@@ -1,0 +1,13 @@
+class Solution {
+    int[] kLargest(int[] arr, int n, int k) {
+        PriorityQueue<Integer> heap =new PriorityQueue<>();
+        for(Integer x:arr){
+            heap.add(-x);
+        }
+        int ans[] =new int[k];
+        for(int i=0;i<k;i++){
+            ans[i]=-heap.poll();
+        }
+        return ans;
+    }
+}
