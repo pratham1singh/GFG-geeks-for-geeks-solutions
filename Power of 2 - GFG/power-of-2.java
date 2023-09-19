@@ -36,17 +36,14 @@ class Solution{
     
     // Function to check if given number n is a power of two.
     public static boolean isPowerofTwo(long n){
-        
-        while(n>4){
-            if(n%4==0)
-            n=n/4;
-            else
-                break;
-            
-        }
-        if(n==4||n==2||n==1)
-            return true;
-        return false;
+    if(n==1) return true;
+    int c=0;
+    long x=n;
+    while(x>0){
+        if((x&1)==1) c+=1;
+        x=x>>1;
+    }
+     return ((n&1)==0)&&c==1;
         
     }
     
