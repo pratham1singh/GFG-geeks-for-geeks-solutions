@@ -1,0 +1,30 @@
+class Solution
+{ 
+    Node ptr;
+    void make_list(Node root){
+        if(root==null)
+            return ;
+        else{
+            make_list(root.left);
+            
+            Node x= new Node(root.data);
+            ptr.right=x;
+            x.left=ptr;
+            ptr=x;
+            
+            make_list(root.right);
+        }
+    }
+    //Function to convert binary tree into circular doubly linked list.
+    Node bTreeToClist(Node root)
+    {
+        Node head=new Node(90);
+        ptr=head;
+        make_list(root);
+        head=head.right;
+        head.left=ptr;
+        ptr.right=head;
+        return head;
+    }
+    
+}
