@@ -1,0 +1,14 @@
+public static boolean find(Node root1,Node root2){
+        if(root1==null&&root2==null)
+            return true;
+        else if(root1==null||root2==null)
+            return  false;
+        else
+            return root1.data==root2.data && find(root1.right,root2.left)&&find(root1.left,root2.right);
+        
+        
+    }
+    public static boolean isSymmetric(Node root)
+    {
+        return find(root,root);
+    }
