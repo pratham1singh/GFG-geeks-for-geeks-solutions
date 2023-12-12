@@ -38,7 +38,7 @@ class Solution{
         else if(visited[i][j]!=0)
             return visited[i][j];
         else{
-            int ans=2147483647;
+            int ans=Integer.MAX_VALUE;
             for(int k=i;k<j;k++){
                 int l=find(i,k);
                 int r=find(k+1,j);
