@@ -3,10 +3,10 @@ class Solution {
         int n=arr.length,i=1;
         Stack<int[]> st = new Stack<>();
         Arrays.sort(arr,(a,b)->{
-            if(a[0]!=b[0])
+            // if(a[0]!=b[0])
                 return a[0]-b[0];
-            else
-                return a[1]-b[1];
+            // else
+            //     return a[1]-b[1];
         });
         st.push(arr[0]);
 
