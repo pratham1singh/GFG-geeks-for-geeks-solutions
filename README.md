@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0045-jump-game-ii) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +67,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0064-minimum-path-sum) |
+| [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
