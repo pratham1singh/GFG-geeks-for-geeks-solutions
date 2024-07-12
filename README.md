@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0725-split-linked-list-in-parts](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0725-split-linked-list-in-parts) |
 ## Divide and Conquer
 |  |
 | ------- |
