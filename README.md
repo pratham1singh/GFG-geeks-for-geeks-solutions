@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0725-split-linked-list-in-parts](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0725-split-linked-list-in-parts) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
