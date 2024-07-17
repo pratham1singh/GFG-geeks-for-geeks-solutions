@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0725-split-linked-list-in-parts](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0202-happy-number) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
