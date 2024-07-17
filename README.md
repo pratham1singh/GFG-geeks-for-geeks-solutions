@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
 | ------- |
