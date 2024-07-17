@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,8 +113,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
