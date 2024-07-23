@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
