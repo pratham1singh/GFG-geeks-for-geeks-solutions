@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
 | ------- |
@@ -144,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Counting
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->
