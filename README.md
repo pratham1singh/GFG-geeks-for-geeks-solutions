@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0202-happy-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3462-vowels-game-in-a-string](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3462-vowels-game-in-a-string](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -155,4 +157,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
