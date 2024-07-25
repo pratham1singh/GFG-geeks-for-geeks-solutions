@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0056-merge-intervals) |
+| [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Binary Search
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -165,4 +168,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3462-vowels-game-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
