@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0165-compare-version-numbers) |
 | [0583-delete-operation-for-two-strings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1720-crawler-log-folder) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0202-happy-number) |
 ## Depth-First Search
 |  |
