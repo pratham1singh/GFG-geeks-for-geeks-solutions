@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,4 +202,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0494-target-sum) |
+## Graph
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
