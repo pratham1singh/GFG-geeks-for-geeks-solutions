@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## String
 |  |
@@ -205,9 +206,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
