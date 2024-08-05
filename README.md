@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## String
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Binary Search Tree
 |  |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Breadth-First Search
 |  |
