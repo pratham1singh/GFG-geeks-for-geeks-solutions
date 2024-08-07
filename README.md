@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0152-maximum-product-subarray) |
 | [0228-summary-ranges](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0494-target-sum) |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0165-compare-version-numbers) |
 | [0583-delete-operation-for-two-strings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0690-employee-importance) |
@@ -241,4 +245,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
