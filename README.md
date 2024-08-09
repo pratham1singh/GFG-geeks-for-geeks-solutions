@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0064-minimum-path-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0152-maximum-product-subarray) |
 | [0228-summary-ranges](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0228-summary-ranges) |
@@ -114,12 +115,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
 ## Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -148,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0560-subarray-sum-equals-k) |
