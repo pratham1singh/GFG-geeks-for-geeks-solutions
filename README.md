@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3462-vowels-game-in-a-string](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0690-employee-importance) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
@@ -246,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
