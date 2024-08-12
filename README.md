@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0165-compare-version-numbers) |
 | [0583-delete-operation-for-two-strings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0690-employee-importance) |
 | [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Hash Table
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0690-employee-importance) |
 | [0832-binary-tree-pruning](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0832-binary-tree-pruning) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1558-course-schedule-iv) |
