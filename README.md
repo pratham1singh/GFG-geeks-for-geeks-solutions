@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0690-employee-importance) |
 | [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0064-minimum-path-sum) |
+| [1036-rotting-oranges](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
 ## Linked List
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0690-employee-importance) |
+| [1036-rotting-oranges](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1558-course-schedule-iv) |
