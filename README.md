@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3486-count-the-number-of-good-nodes](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3486-count-the-number-of-good-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2439-longest-cycle-in-a-graph](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3486-count-the-number-of-good-nodes](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3486-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
