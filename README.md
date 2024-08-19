@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0202-happy-number) |
+| [0650-2-keys-keyboard](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0650-2-keys-keyboard) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3462-vowels-game-in-a-string](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
