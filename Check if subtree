@@ -1,0 +1,29 @@
+//Question link
+// https://www.geeksforgeeks.org/problems/check-if-subtree/1?page=1&category=Tree&company=Microsoft&difficulty=Medium
+
+class Solution {
+    static HashMap<String,Boolean> map;
+    
+    public static String preOrder(Node root){
+        if(root==null) return "N";
+        String l=preOrder(root.left);
+        String r=preOrder(root.right);
+        return l+"-"+(root.data)+"-"+r;
+        
+    }
+    public static String preOrder2(Node root){
+        if(root==null) return "N";
+        String l=preOrder2(root.left);
+        String r=preOrder2(root.right);
+        map.put(l+"-"+(root.data)+"-"+r,true); 
+        return l+"-"+(root.data)+"-"+r;
+        
+    }
+    public static boolean isSubtree(Node T, Node S) {
+        map =new HashMap<>();
+        String S_pre=preOrder(S);
+        
+        preOrder2(T);
+        return map.get(S_pre)!=null;
+    }
+}
