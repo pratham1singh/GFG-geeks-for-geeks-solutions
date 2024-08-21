@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3317-maximum-palindromes-after-operations](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3317-maximum-palindromes-after-operations) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2089-maximum-matrix-sum](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2089-maximum-matrix-sum) |
+| [3317-maximum-palindromes-after-operations](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3317-maximum-palindromes-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [3317-maximum-palindromes-after-operations](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3317-maximum-palindromes-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3317-maximum-palindromes-after-operations](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3317-maximum-palindromes-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
@@ -169,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/0690-employee-importance) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3317-maximum-palindromes-after-operations](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3317-maximum-palindromes-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -211,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [3317-maximum-palindromes-after-operations](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3317-maximum-palindromes-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pratham1singh/GFG-geeks-for-geeks-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Brainteaser
 |  |
